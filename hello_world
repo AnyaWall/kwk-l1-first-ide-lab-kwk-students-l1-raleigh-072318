@@ -1,0 +1,5 @@
+puts "Hi"
+input = gets
+
+input = "Prince Charles"
+puts input

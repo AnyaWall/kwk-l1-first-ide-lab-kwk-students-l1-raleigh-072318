@@ -1,3 +1,5 @@
+gets "Hello"
+input = gets
 
 
   # Your First IDE Lab
